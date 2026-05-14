@@ -1,0 +1,2297 @@
+{
+  "metadata": {
+    "school": "Saigon South International School",
+    "scope": "High School (Grades 9-12)",
+    "current_date": "2026-05-14",
+    "current_day_of_cycle": "Day 5",
+    "current_period": "Period 3",
+    "generated": "2026-05-14T00:00:00Z",
+    "seed": 2026
+  },
+  "students": [
+    {
+      "id": "S0001",
+      "first_name": "Ryan",
+      "last_name": "Smith",
+      "grade": 9,
+      "nationality": "American",
+      "advisor_id": "T001",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=RS"
+    },
+    {
+      "id": "S0007",
+      "first_name": "Do-yun",
+      "last_name": "Han",
+      "grade": 9,
+      "nationality": "Korean",
+      "advisor_id": "T007",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=DH"
+    },
+    {
+      "id": "S0008",
+      "first_name": "Lei",
+      "last_name": "Zhang",
+      "grade": 9,
+      "nationality": "Chinese",
+      "advisor_id": "T008",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=LZ"
+    },
+    {
+      "id": "S0009",
+      "first_name": "Qian",
+      "last_name": "Liu",
+      "grade": 9,
+      "nationality": "Chinese",
+      "advisor_id": "T009",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=QL"
+    },
+    {
+      "id": "S0010",
+      "first_name": "Linh",
+      "last_name": "Bui",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T010",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=LB"
+    },
+    {
+      "id": "S0011",
+      "first_name": "Minh",
+      "last_name": "Le",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T011",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=ML"
+    },
+    {
+      "id": "S0012",
+      "first_name": "Mai",
+      "last_name": "Duong",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T012",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=MD"
+    },
+    {
+      "id": "S0013",
+      "first_name": "Min-jun",
+      "last_name": "Park",
+      "grade": 9,
+      "nationality": "Korean",
+      "advisor_id": "T013",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=MP"
+    },
+    {
+      "id": "S0014",
+      "first_name": "Ngoc",
+      "last_name": "Ly",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T014",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=NL"
+    },
+    {
+      "id": "S0015",
+      "first_name": "Harper",
+      "last_name": "Hall",
+      "grade": 9,
+      "nationality": "Australian",
+      "advisor_id": "T015",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=HH"
+    },
+    {
+      "id": "S0016",
+      "first_name": "Duc",
+      "last_name": "Ngo",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T016",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=DN",
+      "preferred_name": "Samuel"
+    },
+    {
+      "id": "S0017",
+      "first_name": "Thanh",
+      "last_name": "Tran",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T017",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=TT"
+    },
+    {
+      "id": "S0018",
+      "first_name": "Long",
+      "last_name": "Ho",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T018",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=LH"
+    },
+    {
+      "id": "S0019",
+      "first_name": "Haruto",
+      "last_name": "Takahashi",
+      "grade": 9,
+      "nationality": "Japanese",
+      "advisor_id": "T019",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=HT"
+    },
+    {
+      "id": "S0020",
+      "first_name": "Bo",
+      "last_name": "Chen",
+      "grade": 9,
+      "nationality": "Chinese",
+      "advisor_id": "T020",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=BC",
+      "preferred_name": "Violet"
+    },
+    {
+      "id": "S0021",
+      "first_name": "Yen",
+      "last_name": "Le",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T021",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=YL"
+    },
+    {
+      "id": "S0022",
+      "first_name": "Yusuf",
+      "last_name": "Lim",
+      "grade": 9,
+      "nationality": "French",
+      "advisor_id": "T022",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=YL"
+    },
+    {
+      "id": "S0023",
+      "first_name": "Yen",
+      "last_name": "Bui",
+      "grade": 9,
+      "nationality": "Vietnamese",
+      "advisor_id": "T023",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=YB"
+    },
+    {
+      "id": "S0024",
+      "first_name": "Lily",
+      "last_name": "Roberts",
+      "grade": 9,
+      "nationality": "British",
+      "advisor_id": "T024",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=LR"
+    },
+    {
+      "id": "S0025",
+      "first_name": "Riku",
+      "last_name": "Yamamoto",
+      "grade": 9,
+      "nationality": "Japanese",
+      "advisor_id": "T025",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=RY"
+    },
+    {
+      "id": "S0002",
+      "first_name": "Ryan",
+      "last_name": "Blake",
+      "grade": 10,
+      "nationality": "British",
+      "advisor_id": "T002",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=RB"
+    },
+    {
+      "id": "S0005",
+      "first_name": "Dave",
+      "last_name": "Patterson",
+      "grade": 10,
+      "nationality": "Canadian",
+      "advisor_id": "T005",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=DP"
+    },
+    {
+      "id": "S0026",
+      "first_name": "Shan",
+      "last_name": "Chen",
+      "grade": 10,
+      "nationality": "Chinese",
+      "advisor_id": "T026",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=SC",
+      "preferred_name": "Isabella"
+    },
+    {
+      "id": "S0027",
+      "first_name": "Quynh",
+      "last_name": "Tran",
+      "grade": 10,
+      "nationality": "Vietnamese",
+      "advisor_id": "T001",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=QT"
+    },
+    {
+      "id": "S0028",
+      "first_name": "Wen",
+      "last_name": "Sharma",
+      "grade": 10,
+      "nationality": "Singaporean",
+      "advisor_id": "T002",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=WS"
+    },
+    {
+      "id": "S0029",
+      "first_name": "Eun-ji",
+      "last_name": "Choi",
+      "grade": 10,
+      "nationality": "Korean",
+      "advisor_id": "T003",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=EC"
+    },
+    {
+      "id": "S0030",
+      "first_name": "Emma",
+      "last_name": "Ross",
+      "grade": 10,
+      "nationality": "British",
+      "advisor_id": "T004",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=ER"
+    },
+    {
+      "id": "S0031",
+      "first_name": "Mason",
+      "last_name": "Collins",
+      "grade": 10,
+      "nationality": "American",
+      "advisor_id": "T005",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=MC"
+    },
+    {
+      "id": "S0032",
+      "first_name": "Savannah",
+      "last_name": "Gray",
+      "grade": 10,
+      "nationality": "American",
+      "advisor_id": "T006",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=SG"
+    },
+    {
+      "id": "S0033",
+      "first_name": "Wen",
+      "last_name": "Dubois",
+      "grade": 10,
+      "nationality": "French",
+      "advisor_id": "T007",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=WD"
+    },
+    {
+      "id": "S0034",
+      "first_name": "Hai",
+      "last_name": "Ngo",
+      "grade": 10,
+      "nationality": "Vietnamese",
+      "advisor_id": "T008",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=HN"
+    },
+    {
+      "id": "S0035",
+      "first_name": "Mia",
+      "last_name": "Miller",
+      "grade": 10,
+      "nationality": "Australian",
+      "advisor_id": "T009",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=MM"
+    },
+    {
+      "id": "S0036",
+      "first_name": "Yusuf",
+      "last_name": "Tan",
+      "grade": 10,
+      "nationality": "Thai",
+      "advisor_id": "T010",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=YT"
+    },
+    {
+      "id": "S0037",
+      "first_name": "Mei",
+      "last_name": "Suzuki",
+      "grade": 10,
+      "nationality": "Japanese",
+      "advisor_id": "T011",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=MS"
+    },
+    {
+      "id": "S0038",
+      "first_name": "Jun",
+      "last_name": "Wang",
+      "grade": 10,
+      "nationality": "Chinese",
+      "advisor_id": "T012",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=JW"
+    },
+    {
+      "id": "S0039",
+      "first_name": "Ji-woo",
+      "last_name": "Han",
+      "grade": 10,
+      "nationality": "Korean",
+      "advisor_id": "T013",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=JH"
+    },
+    {
+      "id": "S0040",
+      "first_name": "Mei",
+      "last_name": "Zhang",
+      "grade": 10,
+      "nationality": "Chinese",
+      "advisor_id": "T014",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=MZ"
+    },
+    {
+      "id": "S0041",
+      "first_name": "Quynh",
+      "last_name": "Duong",
+      "grade": 10,
+      "nationality": "Vietnamese",
+      "advisor_id": "T015",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=QD"
+    },
+    {
+      "id": "S0042",
+      "first_name": "Linh",
+      "last_name": "Phan",
+      "grade": 10,
+      "nationality": "Vietnamese",
+      "advisor_id": "T016",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=LP"
+    },
+    {
+      "id": "S0043",
+      "first_name": "Thanh",
+      "last_name": "Ngo",
+      "grade": 10,
+      "nationality": "Vietnamese",
+      "advisor_id": "T017",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=TN"
+    },
+    {
+      "id": "S0004",
+      "first_name": "Jenny",
+      "last_name": "Park",
+      "grade": 11,
+      "nationality": "Korean",
+      "advisor_id": "T004",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=JP"
+    },
+    {
+      "id": "S0006",
+      "first_name": "Fred",
+      "last_name": "Tanaka",
+      "grade": 11,
+      "nationality": "Japanese",
+      "advisor_id": "T006",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=FT"
+    },
+    {
+      "id": "S0044",
+      "first_name": "Ling",
+      "last_name": "Chen",
+      "grade": 11,
+      "nationality": "Chinese",
+      "advisor_id": "T018",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=LC"
+    },
+    {
+      "id": "S0045",
+      "first_name": "Lan",
+      "last_name": "Pham",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T019",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=LP"
+    },
+    {
+      "id": "S0046",
+      "first_name": "Minh",
+      "last_name": "Ly",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T020",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=ML"
+    },
+    {
+      "id": "S0047",
+      "first_name": "Phuc",
+      "last_name": "Ly",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T021",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=PL"
+    },
+    {
+      "id": "S0048",
+      "first_name": "Quynh",
+      "last_name": "Le",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T022",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=QL",
+      "preferred_name": "Lucas"
+    },
+    {
+      "id": "S0049",
+      "first_name": "Thanh",
+      "last_name": "Tran",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T023",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=TT"
+    },
+    {
+      "id": "S0050",
+      "first_name": "Anh",
+      "last_name": "Dang",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T024",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=AD",
+      "preferred_name": "David"
+    },
+    {
+      "id": "S0051",
+      "first_name": "Mi-rae",
+      "last_name": "Jung",
+      "grade": 11,
+      "nationality": "Korean",
+      "advisor_id": "T025",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=MJ"
+    },
+    {
+      "id": "S0052",
+      "first_name": "Eun-ji",
+      "last_name": "Han",
+      "grade": 11,
+      "nationality": "Korean",
+      "advisor_id": "T026",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=EH",
+      "preferred_name": "Lily"
+    },
+    {
+      "id": "S0053",
+      "first_name": "Ella",
+      "last_name": "Bailey",
+      "grade": 11,
+      "nationality": "British",
+      "advisor_id": "T001",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=EB"
+    },
+    {
+      "id": "S0054",
+      "first_name": "Long",
+      "last_name": "Vu",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T002",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=LV"
+    },
+    {
+      "id": "S0055",
+      "first_name": "Seo-yeon",
+      "last_name": "Park",
+      "grade": 11,
+      "nationality": "Korean",
+      "advisor_id": "T003",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=SP"
+    },
+    {
+      "id": "S0056",
+      "first_name": "Linh",
+      "last_name": "Vu",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T004",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=LV",
+      "preferred_name": "Mason"
+    },
+    {
+      "id": "S0057",
+      "first_name": "Ji-woo",
+      "last_name": "Park",
+      "grade": 11,
+      "nationality": "Korean",
+      "advisor_id": "T005",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=JP"
+    },
+    {
+      "id": "S0058",
+      "first_name": "Duc",
+      "last_name": "Do",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T006",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=DD"
+    },
+    {
+      "id": "S0059",
+      "first_name": "Minh",
+      "last_name": "Pham",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T007",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=MP"
+    },
+    {
+      "id": "S0060",
+      "first_name": "Hazel",
+      "last_name": "Cox",
+      "grade": 11,
+      "nationality": "American",
+      "advisor_id": "T008",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=HC"
+    },
+    {
+      "id": "S0061",
+      "first_name": "Nam",
+      "last_name": "Ly",
+      "grade": 11,
+      "nationality": "Vietnamese",
+      "advisor_id": "T009",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=NL"
+    },
+    {
+      "id": "S0003",
+      "first_name": "Ryan",
+      "last_name": "Niall",
+      "grade": 12,
+      "nationality": "Australian",
+      "advisor_id": "T003",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=RN"
+    },
+    {
+      "id": "S0062",
+      "first_name": "Do-yun",
+      "last_name": "Seo",
+      "grade": 12,
+      "nationality": "Korean",
+      "advisor_id": "T010",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=DS"
+    },
+    {
+      "id": "S0063",
+      "first_name": "Jae-won",
+      "last_name": "Cho",
+      "grade": 12,
+      "nationality": "Korean",
+      "advisor_id": "T011",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=JC"
+    },
+    {
+      "id": "S0064",
+      "first_name": "Riku",
+      "last_name": "Suzuki",
+      "grade": 12,
+      "nationality": "Japanese",
+      "advisor_id": "T012",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=RS"
+    },
+    {
+      "id": "S0065",
+      "first_name": "Rohan",
+      "last_name": "Singh",
+      "grade": 12,
+      "nationality": "Thai",
+      "advisor_id": "T013",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=RS"
+    },
+    {
+      "id": "S0066",
+      "first_name": "Phuong",
+      "last_name": "Nguyen",
+      "grade": 12,
+      "nationality": "Vietnamese",
+      "advisor_id": "T014",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=PN"
+    },
+    {
+      "id": "S0067",
+      "first_name": "Anh",
+      "last_name": "Do",
+      "grade": 12,
+      "nationality": "Vietnamese",
+      "advisor_id": "T015",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=AD"
+    },
+    {
+      "id": "S0068",
+      "first_name": "Min-jun",
+      "last_name": "Yoon",
+      "grade": 12,
+      "nationality": "Korean",
+      "advisor_id": "T016",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=MY"
+    },
+    {
+      "id": "S0069",
+      "first_name": "Nam",
+      "last_name": "Tran",
+      "grade": 12,
+      "nationality": "Vietnamese",
+      "advisor_id": "T017",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=NT",
+      "preferred_name": "Abigail"
+    },
+    {
+      "id": "S0070",
+      "first_name": "Soo-min",
+      "last_name": "Cho",
+      "grade": 12,
+      "nationality": "Korean",
+      "advisor_id": "T018",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=SC",
+      "preferred_name": "Lucas"
+    },
+    {
+      "id": "S0071",
+      "first_name": "Hyun-woo",
+      "last_name": "Oh",
+      "grade": 12,
+      "nationality": "Korean",
+      "advisor_id": "T019",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=HO"
+    },
+    {
+      "id": "S0072",
+      "first_name": "Lan",
+      "last_name": "Le",
+      "grade": 12,
+      "nationality": "Vietnamese",
+      "advisor_id": "T020",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=LL"
+    },
+    {
+      "id": "S0073",
+      "first_name": "Mei",
+      "last_name": "Saito",
+      "grade": 12,
+      "nationality": "Japanese",
+      "advisor_id": "T021",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=MS"
+    },
+    {
+      "id": "S0074",
+      "first_name": "Xin",
+      "last_name": "Wu",
+      "grade": 12,
+      "nationality": "Chinese",
+      "advisor_id": "T022",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=XW"
+    },
+    {
+      "id": "S0075",
+      "first_name": "Hiroshi",
+      "last_name": "Kobayashi",
+      "grade": 12,
+      "nationality": "Japanese",
+      "advisor_id": "T023",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=HK"
+    },
+    {
+      "id": "S0076",
+      "first_name": "Tao",
+      "last_name": "Li",
+      "grade": 12,
+      "nationality": "Chinese",
+      "advisor_id": "T024",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=TL"
+    },
+    {
+      "id": "S0077",
+      "first_name": "Hans",
+      "last_name": "Laurent",
+      "grade": 12,
+      "nationality": "French",
+      "advisor_id": "T025",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=HL"
+    },
+    {
+      "id": "S0078",
+      "first_name": "Su-bin",
+      "last_name": "Seo",
+      "grade": 12,
+      "nationality": "Korean",
+      "advisor_id": "T026",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=SS",
+      "preferred_name": "Zoe"
+    },
+    {
+      "id": "S0079",
+      "first_name": "Nam",
+      "last_name": "Ho",
+      "grade": 12,
+      "nationality": "Vietnamese",
+      "advisor_id": "T001",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=NH",
+      "preferred_name": "Ethan"
+    },
+    {
+      "id": "S0080",
+      "first_name": "Owen",
+      "last_name": "Edwards",
+      "grade": 12,
+      "nationality": "American",
+      "advisor_id": "T002",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=OE"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T001",
+      "first_name": "Adrian",
+      "last_name": "Holloway",
+      "department": "Math",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=AH",
+      "email_alias": "aholloway@ssis.edu.vn"
+    },
+    {
+      "id": "T002",
+      "first_name": "Priya",
+      "last_name": "Iyer",
+      "department": "Math",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=PI",
+      "email_alias": "piyer@ssis.edu.vn"
+    },
+    {
+      "id": "T003",
+      "first_name": "Marcus",
+      "last_name": "Doyle",
+      "department": "Math",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=MD",
+      "email_alias": "mdoyle@ssis.edu.vn"
+    },
+    {
+      "id": "T004",
+      "first_name": "Linh",
+      "last_name": "Trinh",
+      "department": "Math",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=LT",
+      "email_alias": "ltrinh@ssis.edu.vn"
+    },
+    {
+      "id": "T005",
+      "first_name": "Callum",
+      "last_name": "Beresford",
+      "department": "Science",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=CB",
+      "email_alias": "cberesford@ssis.edu.vn"
+    },
+    {
+      "id": "T006",
+      "first_name": "Hana",
+      "last_name": "Okabe",
+      "department": "Science",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=HO",
+      "email_alias": "hokabe@ssis.edu.vn"
+    },
+    {
+      "id": "T007",
+      "first_name": "Sebastian",
+      "last_name": "Voss",
+      "department": "Science",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=SV",
+      "email_alias": "svoss@ssis.edu.vn"
+    },
+    {
+      "id": "T008",
+      "first_name": "Mira",
+      "last_name": "Achterberg",
+      "department": "Science",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=MA",
+      "email_alias": "machterberg@ssis.edu.vn"
+    },
+    {
+      "id": "T009",
+      "first_name": "Eloise",
+      "last_name": "Whitfield",
+      "department": "English",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=EW",
+      "email_alias": "ewhitfield@ssis.edu.vn"
+    },
+    {
+      "id": "T010",
+      "first_name": "Jonas",
+      "last_name": "Pemberton",
+      "department": "English",
+      "photo_url": "https://placehold.co/120x120/3a5c5c/ffffff?text=JP",
+      "email_alias": "jpemberton@ssis.edu.vn"
+    },
+    {
+      "id": "T011",
+      "first_name": "Anika",
+      "last_name": "Rasmussen",
+      "department": "English",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=AR",
+      "email_alias": "arasmussen@ssis.edu.vn"
+    },
+    {
+      "id": "T012",
+      "first_name": "Tomasz",
+      "last_name": "Kovac",
+      "department": "Humanities",
+      "photo_url": "https://placehold.co/120x120/5c4a3a/ffffff?text=TK",
+      "email_alias": "tkovac@ssis.edu.vn"
+    },
+    {
+      "id": "T013",
+      "first_name": "Beatrice",
+      "last_name": "Lin",
+      "department": "Humanities",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=BL",
+      "email_alias": "blin@ssis.edu.vn"
+    },
+    {
+      "id": "T014",
+      "first_name": "Reuben",
+      "last_name": "Otieno",
+      "department": "Humanities",
+      "photo_url": "https://placehold.co/120x120/5c3a4a/ffffff?text=RO",
+      "email_alias": "rotieno@ssis.edu.vn"
+    },
+    {
+      "id": "T015",
+      "first_name": "Isabela",
+      "last_name": "Marquez",
+      "department": "Languages",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=IM",
+      "email_alias": "imarquez@ssis.edu.vn"
+    },
+    {
+      "id": "T016",
+      "first_name": "Wei",
+      "last_name": "Tang",
+      "department": "Languages",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=WT",
+      "email_alias": "wtang@ssis.edu.vn"
+    },
+    {
+      "id": "T017",
+      "first_name": "Camille",
+      "last_name": "Bertrand",
+      "department": "Languages",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=CB",
+      "email_alias": "cbertrand@ssis.edu.vn"
+    },
+    {
+      "id": "T018",
+      "first_name": "Soraya",
+      "last_name": "Davenport",
+      "department": "Arts",
+      "photo_url": "https://placehold.co/120x120/2f4858/ffffff?text=SD",
+      "email_alias": "sdavenport@ssis.edu.vn"
+    },
+    {
+      "id": "T019",
+      "first_name": "Felix",
+      "last_name": "Wakahisa",
+      "department": "Arts",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=FW",
+      "email_alias": "fwakahisa@ssis.edu.vn"
+    },
+    {
+      "id": "T020",
+      "first_name": "Travis",
+      "last_name": "Boucher",
+      "department": "PE",
+      "photo_url": "https://placehold.co/120x120/33658a/ffffff?text=TB",
+      "email_alias": "tboucher@ssis.edu.vn"
+    },
+    {
+      "id": "T021",
+      "first_name": "Elena",
+      "last_name": "Karras",
+      "department": "PE",
+      "photo_url": "https://placehold.co/120x120/758e4f/ffffff?text=EK",
+      "email_alias": "ekarras@ssis.edu.vn"
+    },
+    {
+      "id": "T022",
+      "first_name": "Naveed",
+      "last_name": "Choudhury",
+      "department": "Technology",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=NC",
+      "email_alias": "nchoudhury@ssis.edu.vn"
+    },
+    {
+      "id": "T023",
+      "first_name": "Yuna",
+      "last_name": "Hwang",
+      "department": "Technology",
+      "photo_url": "https://placehold.co/120x120/86bbd8/ffffff?text=YH",
+      "email_alias": "yhwang@ssis.edu.vn"
+    },
+    {
+      "id": "T024",
+      "first_name": "Phoebe",
+      "last_name": "Ainsworth",
+      "department": "Humanities",
+      "photo_url": "https://placehold.co/120x120/3a4a5c/ffffff?text=PA",
+      "email_alias": "painsworth@ssis.edu.vn"
+    },
+    {
+      "id": "T025",
+      "first_name": "Damien",
+      "last_name": "Lockhart",
+      "department": "Humanities",
+      "photo_url": "https://placehold.co/120x120/4a5c3a/ffffff?text=DL",
+      "email_alias": "dlockhart@ssis.edu.vn"
+    },
+    {
+      "id": "T026",
+      "first_name": "Saanvi",
+      "last_name": "Mehta",
+      "department": "Arts",
+      "photo_url": "https://placehold.co/120x120/4a3a5c/ffffff?text=SM",
+      "email_alias": "smehta@ssis.edu.vn"
+    }
+  ],
+  "classes": [
+    {
+      "id": "CL001",
+      "course_name": "Algebra II",
+      "course_code": "MAT201",
+      "teacher_id": "T001",
+      "room": "B-201",
+      "level": "Core"
+    },
+    {
+      "id": "CL002",
+      "course_name": "Pre-Calculus",
+      "course_code": "MAT301",
+      "teacher_id": "T002",
+      "room": "B-202",
+      "level": "Honors"
+    },
+    {
+      "id": "CL003",
+      "course_name": "AP Calculus AB",
+      "course_code": "MAT401",
+      "teacher_id": "T003",
+      "room": "B-203",
+      "level": "AP"
+    },
+    {
+      "id": "CL004",
+      "course_name": "AP Calculus BC",
+      "course_code": "MAT402",
+      "teacher_id": "T003",
+      "room": "B-203",
+      "level": "AP"
+    },
+    {
+      "id": "CL005",
+      "course_name": "IB Math AA SL",
+      "course_code": "MAT501",
+      "teacher_id": "T004",
+      "room": "B-204",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL006",
+      "course_name": "IB Math AA HL",
+      "course_code": "MAT502",
+      "teacher_id": "T002",
+      "room": "B-205",
+      "level": "IB HL"
+    },
+    {
+      "id": "CL007",
+      "course_name": "IB Math AI SL",
+      "course_code": "MAT503",
+      "teacher_id": "T004",
+      "room": "B-204",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL008",
+      "course_name": "Physics (Applied)",
+      "course_code": "SCI301",
+      "teacher_id": "T005",
+      "room": "C-301",
+      "level": "Core"
+    },
+    {
+      "id": "CL009",
+      "course_name": "AP Physics 1",
+      "course_code": "SCI401",
+      "teacher_id": "T005",
+      "room": "C-301",
+      "level": "AP"
+    },
+    {
+      "id": "CL010",
+      "course_name": "IB Physics HL",
+      "course_code": "SCI501",
+      "teacher_id": "T005",
+      "room": "C-302",
+      "level": "IB HL"
+    },
+    {
+      "id": "CL011",
+      "course_name": "Chemistry (Honors)",
+      "course_code": "SCI302",
+      "teacher_id": "T006",
+      "room": "C-303",
+      "level": "Honors"
+    },
+    {
+      "id": "CL012",
+      "course_name": "AP Chemistry",
+      "course_code": "SCI402",
+      "teacher_id": "T006",
+      "room": "C-303",
+      "level": "AP"
+    },
+    {
+      "id": "CL013",
+      "course_name": "IB Chemistry SL",
+      "course_code": "SCI502",
+      "teacher_id": "T006",
+      "room": "C-304",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL014",
+      "course_name": "Biology (Honors)",
+      "course_code": "SCI303",
+      "teacher_id": "T007",
+      "room": "C-305",
+      "level": "Honors"
+    },
+    {
+      "id": "CL015",
+      "course_name": "AP Biology",
+      "course_code": "SCI403",
+      "teacher_id": "T008",
+      "room": "C-305",
+      "level": "AP"
+    },
+    {
+      "id": "CL016",
+      "course_name": "IB Biology HL",
+      "course_code": "SCI503",
+      "teacher_id": "T007",
+      "room": "C-306",
+      "level": "IB HL"
+    },
+    {
+      "id": "CL017",
+      "course_name": "English 9",
+      "course_code": "ENG101",
+      "teacher_id": "T009",
+      "room": "A-101",
+      "level": "Core"
+    },
+    {
+      "id": "CL018",
+      "course_name": "English 10",
+      "course_code": "ENG201",
+      "teacher_id": "T010",
+      "room": "A-102",
+      "level": "Core"
+    },
+    {
+      "id": "CL019",
+      "course_name": "AP English Language",
+      "course_code": "ENG401",
+      "teacher_id": "T011",
+      "room": "A-103",
+      "level": "AP"
+    },
+    {
+      "id": "CL020",
+      "course_name": "AP English Literature",
+      "course_code": "ENG402",
+      "teacher_id": "T009",
+      "room": "A-104",
+      "level": "AP"
+    },
+    {
+      "id": "CL021",
+      "course_name": "IB English A SL",
+      "course_code": "ENG501",
+      "teacher_id": "T010",
+      "room": "A-105",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL022",
+      "course_name": "IB English A HL",
+      "course_code": "ENG502",
+      "teacher_id": "T011",
+      "room": "A-106",
+      "level": "IB HL"
+    },
+    {
+      "id": "CL023",
+      "course_name": "World History",
+      "course_code": "HUM101",
+      "teacher_id": "T012",
+      "room": "A-201",
+      "level": "Core"
+    },
+    {
+      "id": "CL024",
+      "course_name": "US History",
+      "course_code": "HUM201",
+      "teacher_id": "T013",
+      "room": "A-202",
+      "level": "Core"
+    },
+    {
+      "id": "CL025",
+      "course_name": "AP World History",
+      "course_code": "HUM401",
+      "teacher_id": "T012",
+      "room": "A-203",
+      "level": "AP"
+    },
+    {
+      "id": "CL026",
+      "course_name": "IB History SL",
+      "course_code": "HUM501",
+      "teacher_id": "T014",
+      "room": "A-204",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL027",
+      "course_name": "IB History HL",
+      "course_code": "HUM502",
+      "teacher_id": "T013",
+      "room": "A-205",
+      "level": "IB HL"
+    },
+    {
+      "id": "CL028",
+      "course_name": "IB Economics SL",
+      "course_code": "HUM503",
+      "teacher_id": "T014",
+      "room": "A-206",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL029",
+      "course_name": "Spanish III",
+      "course_code": "LAN301",
+      "teacher_id": "T015",
+      "room": "D-101",
+      "level": "Core"
+    },
+    {
+      "id": "CL030",
+      "course_name": "AP Spanish",
+      "course_code": "LAN401",
+      "teacher_id": "T015",
+      "room": "D-101",
+      "level": "AP"
+    },
+    {
+      "id": "CL031",
+      "course_name": "Mandarin III",
+      "course_code": "LAN302",
+      "teacher_id": "T016",
+      "room": "D-102",
+      "level": "Core"
+    },
+    {
+      "id": "CL032",
+      "course_name": "AP Mandarin",
+      "course_code": "LAN402",
+      "teacher_id": "T016",
+      "room": "D-102",
+      "level": "AP"
+    },
+    {
+      "id": "CL033",
+      "course_name": "French III",
+      "course_code": "LAN303",
+      "teacher_id": "T017",
+      "room": "D-103",
+      "level": "Core"
+    },
+    {
+      "id": "CL034",
+      "course_name": "Visual Arts",
+      "course_code": "ART101",
+      "teacher_id": "T018",
+      "room": "E-101",
+      "level": "Core"
+    },
+    {
+      "id": "CL035",
+      "course_name": "IB Visual Arts HL",
+      "course_code": "ART501",
+      "teacher_id": "T018",
+      "room": "E-101",
+      "level": "IB HL"
+    },
+    {
+      "id": "CL036",
+      "course_name": "Music",
+      "course_code": "ART201",
+      "teacher_id": "T019",
+      "room": "E-201",
+      "level": "Core"
+    },
+    {
+      "id": "CL037",
+      "course_name": "Theatre",
+      "course_code": "ART301",
+      "teacher_id": "T019",
+      "room": "E-202",
+      "level": "Core"
+    },
+    {
+      "id": "CL038",
+      "course_name": "PE 9",
+      "course_code": "PE101",
+      "teacher_id": "T020",
+      "room": "GYM-1",
+      "level": "Core"
+    },
+    {
+      "id": "CL039",
+      "course_name": "PE 10",
+      "course_code": "PE201",
+      "teacher_id": "T021",
+      "room": "GYM-2",
+      "level": "Core"
+    },
+    {
+      "id": "CL040",
+      "course_name": "Computer Science",
+      "course_code": "TEC201",
+      "teacher_id": "T022",
+      "room": "F-101",
+      "level": "Core"
+    },
+    {
+      "id": "CL041",
+      "course_name": "AP Computer Science A",
+      "course_code": "TEC401",
+      "teacher_id": "T022",
+      "room": "F-101",
+      "level": "AP"
+    },
+    {
+      "id": "CL042",
+      "course_name": "IB Computer Science",
+      "course_code": "TEC501",
+      "teacher_id": "T023",
+      "room": "F-102",
+      "level": "IB SL"
+    },
+    {
+      "id": "CL043",
+      "course_name": "Theory of Knowledge",
+      "course_code": "TOK500",
+      "teacher_id": "T024",
+      "room": "A-301",
+      "level": "IB DP Core"
+    },
+    {
+      "id": "CL044",
+      "course_name": "Extended Essay",
+      "course_code": "EE500",
+      "teacher_id": "T025",
+      "room": "A-302",
+      "level": "IB DP Core"
+    },
+    {
+      "id": "CL045",
+      "course_name": "CAS",
+      "course_code": "CAS500",
+      "teacher_id": "T026",
+      "room": "E-301",
+      "level": "IB DP Core"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": "S0001",
+      "class_id": "CL001",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 4"
+        }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL008",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 2"
+        }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL017",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 6"
+        }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL023",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 2"
+        }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL029",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 7"
+        }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL038",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 4"
+        }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL040",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 6"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL002",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 4"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL014",
+      "period_pattern": [
+        {
+          "day": "Day 4",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 7"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL018",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 5"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL024",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 3"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL032",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 4"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL037",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 2"
+        }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL039",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 1"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL006",
+      "period_pattern": [
+        {
+          "day": "Day 3",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 5"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL010",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 6"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL021",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 5"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL027",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 1"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL029",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 3"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL033",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 1"
+        }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL036",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 7"
+        }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL005",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 6"
+        }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL013",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 2"
+        }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL021",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 1"
+        }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL025",
+      "period_pattern": [
+        {
+          "day": "Day 2",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 3"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 3"
+        }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL032",
+      "period_pattern": [
+        {
+          "day": "Day 3",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 7"
+        }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL037",
+      "period_pattern": [
+        {
+          "day": "Day 3",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 2"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL003",
+      "period_pattern": [
+        {
+          "day": "Day 3",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 5"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 5"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL012",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 6",
+          "period": "Period 1"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 1"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL019",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 2",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 4"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 4"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL025",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 7"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL029",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 6"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 6"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL034",
+      "period_pattern": [
+        {
+          "day": "Day 1",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 3",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 4",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 2"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 2"
+        }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL043",
+      "period_pattern": [
+        {
+          "day": "Day 3",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 5",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 7",
+          "period": "Period 7"
+        },
+        {
+          "day": "Day 8",
+          "period": "Period 7"
+        }
+      ]
+    }
+  ],
+  "grades": [
+    {
+      "student_id": "S0004",
+      "class_id": "CL013",
+      "term": "Semester 1 (2025-26)",
+      "school_grade": {
+        "numeric": 88,
+        "letter": "B+"
+      },
+      "external_grade": {
+        "scale": "IB 1-7",
+        "predicted": 6
+      }
+    }
+  ],
+  "student_services": [
+    {
+      "student_id": "S0005",
+      "accommodations": [
+        "Extended time on tests (1.5x)",
+        "Private testing room",
+        "Quiet snack break mid-test",
+        "Pre-test breathing routine"
+      ],
+      "teacher_recommendations": [
+        "Chunk test content into 15-min blocks with mini-checkpoints",
+        "Provide test format preview the day before",
+        "Avoid surprise quizzes",
+        "Allow standing/movement breaks",
+        "Use clear visual structure on test sheet — boxes for answers, generous white space"
+      ],
+      "notes": "Test anxiety with somatic symptoms. Counselor-supported since Grade 9. Strong performer in low-stakes work — anxiety is performance-specific not content-related."
+    }
+  ],
+  "general_recommendations": [
+    {
+      "category": "test_anxiety",
+      "recommendations": [
+        "Pre-test breathing routine (4-7-8 or box breathing) before the paper is distributed",
+        "Provide a test format preview the day before so the structure is familiar",
+        "Chunk test content into shorter blocks with explicit mini-checkpoints",
+        "Allow a quiet snack/water break mid-test",
+        "Avoid surprise quizzes; signal all assessments in advance",
+        "Offer optional private/low-stim testing room"
+      ]
+    }
+  ],
+  "submissions": [
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00015",
+      "status": "submitted",
+      "submitted_at": "2025-11-09",
+      "score": 42
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00019",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00075",
+      "status": "late",
+      "submitted_at": "2026-01-13",
+      "score": 65
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00076",
+      "status": "submitted",
+      "submitted_at": "2026-01-19",
+      "score": 18
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00077",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00079",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00101",
+      "status": "submitted",
+      "submitted_at": "2025-10-14",
+      "score": 85
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00102",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00201",
+      "status": "submitted",
+      "submitted_at": "2025-11-30",
+      "score": 92
+    }
+  ],
+  "assignments": [
+    {
+      "id": "AS00015",
+      "class_id": "CL003",
+      "name": "Derivatives Quiz",
+      "due_date": "2025-11-10",
+      "type": "quiz",
+      "weight": 10,
+      "max_points": 50
+    },
+    {
+      "id": "AS00019",
+      "class_id": "CL003",
+      "name": "Related Rates Problem Set",
+      "due_date": "2025-11-20",
+      "type": "homework",
+      "weight": 5,
+      "max_points": 20
+    },
+    {
+      "id": "AS00075",
+      "class_id": "CL012",
+      "name": "Stoichiometry Lab",
+      "due_date": "2026-01-10",
+      "type": "lab",
+      "weight": 15,
+      "max_points": 100
+    },
+    {
+      "id": "AS00076",
+      "class_id": "CL012",
+      "name": "Gas Laws Worksheet",
+      "due_date": "2026-01-20",
+      "type": "homework",
+      "weight": 5,
+      "max_points": 20
+    },
+    {
+      "id": "AS00077",
+      "class_id": "CL012",
+      "name": "Titration Lab Report",
+      "due_date": "2026-02-05",
+      "type": "lab",
+      "weight": 15,
+      "max_points": 100
+    },
+    {
+      "id": "AS00079",
+      "class_id": "CL012",
+      "name": "Kinetics Unit Test",
+      "due_date": "2026-03-01",
+      "type": "test",
+      "weight": 20,
+      "max_points": 100
+    },
+    {
+      "id": "AS00101",
+      "class_id": "CL019",
+      "name": "Rhetorical Analysis Essay",
+      "due_date": "2025-10-15",
+      "type": "essay",
+      "weight": 20,
+      "max_points": 100
+    },
+    {
+      "id": "AS00102",
+      "class_id": "CL019",
+      "name": "Synthesis Prompt Practice",
+      "due_date": "2025-11-05",
+      "type": "homework",
+      "weight": 10,
+      "max_points": 50
+    },
+    {
+      "id": "AS00201",
+      "class_id": "CL034",
+      "name": "Portfolio Draft 1",
+      "due_date": "2025-12-01",
+      "type": "project",
+      "weight": 25,
+      "max_points": 100
+    }
+  ]
+}

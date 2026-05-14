@@ -1,0 +1,6 @@
+{
+  "name": "Ask SSIS",
+  "description": "A natural-language interface for teachers to query student data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

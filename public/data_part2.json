@@ -1,0 +1,438 @@
+{
+  "enrollments": [
+    {
+      "student_id": "S0001",
+      "class_id": "CL001",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 4" },
+        { "day": "Day 4", "period": "Period 4" },
+        { "day": "Day 5", "period": "Period 4" },
+        { "day": "Day 7", "period": "Period 4" }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL008",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 2" },
+        { "day": "Day 3", "period": "Period 2" },
+        { "day": "Day 7", "period": "Period 2" },
+        { "day": "Day 8", "period": "Period 2" }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL017",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 6" },
+        { "day": "Day 2", "period": "Period 6" },
+        { "day": "Day 5", "period": "Period 6" },
+        { "day": "Day 6", "period": "Period 6" },
+        { "day": "Day 7", "period": "Period 6" }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL023",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 2" },
+        { "day": "Day 4", "period": "Period 2" },
+        { "day": "Day 6", "period": "Period 2" },
+        { "day": "Day 8", "period": "Period 2" }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL029",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 7" },
+        { "day": "Day 3", "period": "Period 7" },
+        { "day": "Day 4", "period": "Period 7" },
+        { "day": "Day 5", "period": "Period 7" },
+        { "day": "Day 6", "period": "Period 7" }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL038",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 4" },
+        { "day": "Day 4", "period": "Period 4" },
+        { "day": "Day 5", "period": "Period 4" },
+        { "day": "Day 8", "period": "Period 4" }
+      ]
+    },
+    {
+      "student_id": "S0001",
+      "class_id": "CL040",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 6" },
+        { "day": "Day 3", "period": "Period 6" },
+        { "day": "Day 4", "period": "Period 6" },
+        { "day": "Day 6", "period": "Period 6" },
+        { "day": "Day 8", "period": "Period 6" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL002",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 4" },
+        { "day": "Day 2", "period": "Period 4" },
+        { "day": "Day 4", "period": "Period 4" },
+        { "day": "Day 5", "period": "Period 4" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL014",
+      "period_pattern": [
+        { "day": "Day 4", "period": "Period 7" },
+        { "day": "Day 5", "period": "Period 7" },
+        { "day": "Day 6", "period": "Period 7" },
+        { "day": "Day 7", "period": "Period 7" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL018",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 5" },
+        { "day": "Day 3", "period": "Period 5" },
+        { "day": "Day 4", "period": "Period 5" },
+        { "day": "Day 8", "period": "Period 5" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL024",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 3" },
+        { "day": "Day 2", "period": "Period 3" },
+        { "day": "Day 7", "period": "Period 3" },
+        { "day": "Day 8", "period": "Period 3" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL032",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 4" },
+        { "day": "Day 2", "period": "Period 4" },
+        { "day": "Day 3", "period": "Period 4" },
+        { "day": "Day 8", "period": "Period 4" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL037",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 2" },
+        { "day": "Day 3", "period": "Period 2" },
+        { "day": "Day 5", "period": "Period 2" },
+        { "day": "Day 8", "period": "Period 2" }
+      ]
+    },
+    {
+      "student_id": "S0002",
+      "class_id": "CL039",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 1" },
+        { "day": "Day 3", "period": "Period 1" },
+        { "day": "Day 4", "period": "Period 1" },
+        { "day": "Day 5", "period": "Period 1" },
+        { "day": "Day 8", "period": "Period 1" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL006",
+      "period_pattern": [
+        { "day": "Day 3", "period": "Period 5" },
+        { "day": "Day 5", "period": "Period 5" },
+        { "day": "Day 6", "period": "Period 5" },
+        { "day": "Day 8", "period": "Period 5" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL010",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 6" },
+        { "day": "Day 5", "period": "Period 6" },
+        { "day": "Day 7", "period": "Period 6" },
+        { "day": "Day 8", "period": "Period 6" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL021",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 5" },
+        { "day": "Day 2", "period": "Period 5" },
+        { "day": "Day 5", "period": "Period 5" },
+        { "day": "Day 7", "period": "Period 5" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL027",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 1" },
+        { "day": "Day 3", "period": "Period 1" },
+        { "day": "Day 5", "period": "Period 1" },
+        { "day": "Day 6", "period": "Period 1" },
+        { "day": "Day 8", "period": "Period 1" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL029",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 3" },
+        { "day": "Day 2", "period": "Period 3" },
+        { "day": "Day 4", "period": "Period 3" },
+        { "day": "Day 5", "period": "Period 3" },
+        { "day": "Day 6", "period": "Period 3" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL033",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 1" },
+        { "day": "Day 2", "period": "Period 1" },
+        { "day": "Day 4", "period": "Period 1" },
+        { "day": "Day 8", "period": "Period 1" }
+      ]
+    },
+    {
+      "student_id": "S0003",
+      "class_id": "CL036",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 7" },
+        { "day": "Day 2", "period": "Period 7" },
+        { "day": "Day 4", "period": "Period 7" },
+        { "day": "Day 5", "period": "Period 7" },
+        { "day": "Day 8", "period": "Period 7" }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL005",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 6" },
+        { "day": "Day 4", "period": "Period 6" },
+        { "day": "Day 5", "period": "Period 6" },
+        { "day": "Day 6", "period": "Period 6" },
+        { "day": "Day 7", "period": "Period 6" }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL013",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 2" },
+        { "day": "Day 2", "period": "Period 2" },
+        { "day": "Day 5", "period": "Period 2" },
+        { "day": "Day 6", "period": "Period 2" }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL021",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 1" },
+        { "day": "Day 5", "period": "Period 1" },
+        { "day": "Day 6", "period": "Period 1" },
+        { "day": "Day 7", "period": "Period 1" },
+        { "day": "Day 8", "period": "Period 1" }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL025",
+      "period_pattern": [
+        { "day": "Day 2", "period": "Period 3" },
+        { "day": "Day 3", "period": "Period 3" },
+        { "day": "Day 5", "period": "Period 3" },
+        { "day": "Day 8", "period": "Period 3" }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL032",
+      "period_pattern": [
+        { "day": "Day 3", "period": "Period 7" },
+        { "day": "Day 4", "period": "Period 7" },
+        { "day": "Day 6", "period": "Period 7" },
+        { "day": "Day 8", "period": "Period 7" }
+      ]
+    },
+    {
+      "student_id": "S0004",
+      "class_id": "CL037",
+      "period_pattern": [
+        { "day": "Day 3", "period": "Period 2" },
+        { "day": "Day 4", "period": "Period 2" },
+        { "day": "Day 6", "period": "Period 2" },
+        { "day": "Day 8", "period": "Period 2" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL003",
+      "period_pattern": [
+        { "day": "Day 3", "period": "Period 5" },
+        { "day": "Day 4", "period": "Period 5" },
+        { "day": "Day 6", "period": "Period 5" },
+        { "day": "Day 7", "period": "Period 5" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL012",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 1" },
+        { "day": "Day 4", "period": "Period 1" },
+        { "day": "Day 6", "period": "Period 1" },
+        { "day": "Day 8", "period": "Period 1" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL019",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 4" },
+        { "day": "Day 2", "period": "Period 4" },
+        { "day": "Day 3", "period": "Period 4" },
+        { "day": "Day 7", "period": "Period 4" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL025",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 7" },
+        { "day": "Day 3", "period": "Period 7" },
+        { "day": "Day 4", "period": "Period 7" },
+        { "day": "Day 7", "period": "Period 7" },
+        { "day": "Day 8", "period": "Period 7" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL029",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 6" },
+        { "day": "Day 3", "period": "Period 6" },
+        { "day": "Day 5", "period": "Period 6" },
+        { "day": "Day 7", "period": "Period 6" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL034",
+      "period_pattern": [
+        { "day": "Day 1", "period": "Period 2" },
+        { "day": "Day 3", "period": "Period 2" },
+        { "day": "Day 4", "period": "Period 2" },
+        { "day": "Day 7", "period": "Period 2" },
+        { "day": "Day 8", "period": "Period 2" }
+      ]
+    },
+    {
+      "student_id": "S0006",
+      "class_id": "CL043",
+      "period_pattern": [
+        { "day": "Day 3", "period": "Period 7" },
+        { "day": "Day 5", "period": "Period 7" },
+        { "day": "Day 7", "period": "Period 7" },
+        { "day": "Day 8", "period": "Period 7" }
+      ]
+    }
+  ],
+  "grades": [
+    {
+      "student_id": "S0004",
+      "class_id": "CL013",
+      "term": "Semester 1 (2025-26)",
+      "school_grade": {
+        "numeric": 88,
+        "letter": "B+"
+      },
+      "external_grade": {
+        "scale": "IB 1-7",
+        "predicted": 6
+      }
+    }
+  ],
+  "student_services": [
+    {
+      "student_id": "S0005",
+      "accommodations": [
+        "Extended time on tests (1.5x)",
+        "Private testing room",
+        "Quiet snack break mid-test",
+        "Pre-test breathing routine"
+      ],
+      "teacher_recommendations": [
+        "Chunk test content into 15-min blocks with mini-checkpoints",
+        "Provide test format preview the day before",
+        "Avoid surprise quizzes",
+        "Allow standing/movement breaks",
+        "Use clear visual structure on test sheet — boxes for answers, generous white space"
+      ],
+      "notes": "Test anxiety with somatic symptoms. Counselor-supported since Grade 9. Strong performer in low-stakes work — anxiety is performance-specific not content-related."
+    }
+  ],
+  "general_recommendations": [
+    {
+      "category": "test_anxiety",
+      "recommendations": [
+        "Pre-test breathing routine (4-7-8 or box breathing) before the paper is distributed",
+        "Provide a test format preview the day before so the structure is familiar",
+        "Chunk test content into shorter blocks with explicit mini-checkpoints",
+        "Allow a quiet snack/water break mid-test",
+        "Avoid surprise quizzes; signal all assessments in advance",
+        "Offer optional private/low-stim testing room"
+      ]
+    }
+  ],
+  "submissions": [
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00015",
+      "status": "submitted",
+      "submitted_at": "2025-11-13",
+      "score": 42
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00019",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00075",
+      "status": "late",
+      "submitted_at": "2026-01-13",
+      "score": 65
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00076",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00077",
+      "status": "missing"
+    },
+    {
+      "student_id": "S0006",
+      "assignment_id": "AS00079",
+      "status": "missing"
+    }
+  ]
+}
